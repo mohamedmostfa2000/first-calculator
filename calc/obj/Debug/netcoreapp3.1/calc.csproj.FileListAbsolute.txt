@@ -1,0 +1,16 @@
+C:\Users\fager\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.exe
+C:\Users\fager\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.deps.json
+C:\Users\fager\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.json
+C:\Users\fager\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.dev.json
+C:\Users\fager\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.dll
+C:\Users\fager\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.pdb
+C:\Users\fager\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.AssemblyReference.cache
+C:\Users\fager\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.Form1.resources
+C:\Users\fager\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.GenerateResource.cache
+C:\Users\fager\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fager\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfoInputs.cache
+C:\Users\fager\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfo.cs
+C:\Users\fager\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.CoreCompileInputs.cache
+C:\Users\fager\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.dll
+C:\Users\fager\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.pdb
+C:\Users\fager\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.genruntimeconfig.cache
